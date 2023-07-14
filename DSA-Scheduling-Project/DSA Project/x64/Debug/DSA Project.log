@@ -1,0 +1,19 @@
+﻿  Source.cpp
+  Process.cpp
+  EDF_Processor.cpp
+C:\DSA-Scheduling-Project\DSA Project\System Classes\Processors\EDF_Processor.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FCFS_Processor.cpp
+C:\DSA-Scheduling-Project\DSA Project\System Classes\Processors\FCFS_Processor.cpp(41,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\DSA-Scheduling-Project\DSA Project\System Classes\Processors\FCFS_Processor.cpp(147,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Processor.cpp
+  RR_Processor.cpp
+C:\DSA-Scheduling-Project\DSA Project\System Classes\Processors\RR_Processor.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SJF_Processor.cpp
+C:\DSA-Scheduling-Project\DSA Project\System Classes\Processors\SJF_Processor.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Scheduler.cpp
+  Generating Code...
+C:\DSA-Scheduling-Project\DSA Project\DS Implementation\Priority Queue\PriorityQueue.h(52): warning C4715: 'PriorityQueue<Process *>::Peek': not all control paths return a value
+C:\DSA-Scheduling-Project\DSA Project\DS Implementation\Priority Queue\PriorityQueue.h(52): warning C4715: 'PriorityQueue<Process *>::Peek': not all control paths return a value
+C:\DSA-Scheduling-Project\DSA Project\DS Implementation\List\List.h(151): warning C4715: 'List<Process *>::getEntry': not all control paths return a value
+C:\DSA-Scheduling-Project\DSA Project\DS Implementation\Priority Queue\PriorityQueue.h(52): warning C4715: 'PriorityQueue<Process *>::Peek': not all control paths return a value
+  DSA Project.vcxproj -> C:\DSA-Scheduling-Project\x64\Debug\DSA Project.exe
